@@ -9,5 +9,5 @@ https://twitter.com/KheraVibhu
 https://www.instagram.com/kheravibhu/   
 https://www.linkedin.com/in/vibhu-khera-47a563231/  
 
-- ⚡ Fun fact: trying to lean bakend development :grin:
+- ⚡ Fun fact: trying to lean backend development :grin:
 
