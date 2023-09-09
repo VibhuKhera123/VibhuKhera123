@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/kheravibhu" target="blank"><img src="https://img.shields.io/twitter/follow/kheravibhu?logo=twitter&style=for-the-badge" alt="kheravibhu" /></a> </p>
 
-- 🔭 I’m currently working on [Referral Code Genrator](https://github.com/VibhuKhera123/Referral-Code)
+- 🔭 I’m currently working on ReactJs
 
 - 🌱 I’m currently learning **Kotlin Android Development and Node Js**
 
