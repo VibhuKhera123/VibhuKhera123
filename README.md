@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **vibhukhera3@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MdwpYT5f3YIZriGodNx4NlzgnO7vtHvl/view?usp=sharing](https://drive.google.com/file/d/1MdwpYT5f3YIZriGodNx4NlzgnO7vtHvl/view?usp=sharing)
+- 📄 Know about my experiences through my [resume](https://drive.google.com/file/d/1MdwpYT5f3YIZriGodNx4NlzgnO7vtHvl/view?usp=sharing)
 
 - ⚡ Fun fact **I love to play Badminton**
 
